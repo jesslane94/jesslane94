@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jesslane94
 - 👀 I’m interested in pretty much anything. love anything tangential to games/art!
-- 🌱 I’m currently learning anything about python. trying to figure out how to make a discord bot haha
+- 🌱 I’m currently learning anything about python. trying to figure out how to make a discord bot, mess with AWS, and contribute to open source!
 - 💞️ I’m looking to collaborate on whatever you might pitch to me!
 - 📫 How to reach me -> jesslane94@gmail.com
 
